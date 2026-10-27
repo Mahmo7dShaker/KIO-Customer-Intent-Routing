@@ -1,0 +1,21 @@
+id,y_true,ml_pred,decision_pred,ml_correct,decision_correct,message,case_type
+M01,0,0,0,True,True,"Could you quote a second website? Also, the website you built for us has stopped loading since this morning.",mixed
+M04,0,0,0,True,True,Our invoice for the website redesign includes extra development hours we never approved.,straightforward
+M06,1,1,0,True,False,What features would you include if you built live chat into our new business website?,paraphrase
+M09,1,1,0,True,False,"Before we commission development, can you explain the live-chat functionality you'd add to our new website?",paraphrase
+M10,1,1,0,True,False,Can you build a WordPress website for a company launching its first online presence?,straightforward
+M11,1,1,1,True,True,How much would a one-page landing site cost for a new project?,paraphrase
+M12,1,1,1,True,True,We haven't ordered a website from your team before. How much would a new responsive business site cost?,negation
+M13,0,0,0,True,True,The company website you developed for us has been offline since this morning. Can you restore it?,straightforward
+M14,1,1,0,True,False,I'd like to schedule a consultation about building a members-only website for our association.,straightforward
+M20,1,1,1,True,True,Can I get a price estimate for building a landing page from scratch?,paraphrase
+M21,0,0,0,True,True,"The mobile navigation menu on the website you built won't open, and we'd also like to add a new FAQ page.",mixed
+M24,1,0,0,False,False,What pages and features are included in your basic website development package?,straightforward
+M25,0,1,0,False,True,Please cancel our ongoing website redesign project before the next development milestone.,straightforward
+M28,0,0,0,True,True,"Since yesterday's CMS update, I can't log in to the admin dashboard of the website you developed.",paraphrase
+M29,0,0,0,True,True,Orders from the e-commerce website you built no longer sync with our inventory system.,straightforward
+M32,0,0,0,True,True,"Please fix the broken checkout form on our current site, and quote adding gift cards afterward.",mixed
+M43,1,1,1,True,True,We haven't worked with your developers before. Could you quote rebuilding our static site in WordPress?,negation
+M47,0,0,0,True,True,I lost access to the CMS admin panel of the website you built after yesterday's update.,paraphrase
+M53,1,1,1,True,True,Our current website isn't broken; we want a quote for developing a standalone conference website.,negation
+M56,0,0,0,True,True,Please don't proceed with the website redesign we commissioned; cancel that active project before the next milestone.,negation

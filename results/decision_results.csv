@@ -1,0 +1,21 @@
+﻿id,message,label,predicted_label,predicted_flag,score,correct
+M01,"Could you quote a second website? Also, the website you built for us has stopped loading since this morning.",0,Support,0,0.7711763978004456,True
+M04,Our invoice for the website redesign includes extra development hours we never approved.,0,Support,0,0.6917056441307068,True
+M06,What features would you include if you built live chat into our new business website?,1,Support,0,0.7904494404792786,False
+M09,"Before we commission development, can you explain the live-chat functionality you'd add to our new website?",1,Support,0,0.8761053085327148,False
+M10,Can you build a WordPress website for a company launching its first online presence?,1,Support,0,0.704706609249115,False
+M11,How much would a one-page landing site cost for a new project?,1,Sales,1,0.5621765851974487,True
+M12,We haven't ordered a website from your team before. How much would a new responsive business site cost?,1,Sales,1,0.8373209238052368,True
+M13,The company website you developed for us has been offline since this morning. Can you restore it?,0,Support,0,0.8158934712409973,True
+M14,I'd like to schedule a consultation about building a members-only website for our association.,1,Support,0,0.9227612018585205,False
+M20,Can I get a price estimate for building a landing page from scratch?,1,Sales,1,0.6300591230392456,True
+M21,"The mobile navigation menu on the website you built won't open, and we'd also like to add a new FAQ page.",0,Support,0,0.8589848875999451,True
+M24,What pages and features are included in your basic website development package?,1,Support,0,0.6183772087097168,False
+M25,Please cancel our ongoing website redesign project before the next development milestone.,0,Support,0,0.7990310192108154,True
+M28,"Since yesterday's CMS update, I can't log in to the admin dashboard of the website you developed.",0,Support,0,0.6386099457740784,True
+M29,Orders from the e-commerce website you built no longer sync with our inventory system.,0,Support,0,0.6392858028411865,True
+M32,"Please fix the broken checkout form on our current site, and quote adding gift cards afterward.",0,Support,0,0.8821743130683899,True
+M43,We haven't worked with your developers before. Could you quote rebuilding our static site in WordPress?,1,Sales,1,0.8508098721504211,True
+M47,I lost access to the CMS admin panel of the website you built after yesterday's update.,0,Support,0,0.7607395052909851,True
+M53,Our current website isn't broken; we want a quote for developing a standalone conference website.,1,Sales,1,0.898187518119812,True
+M56,Please don't proceed with the website redesign we commissioned; cancel that active project before the next milestone.,0,Support,0,0.7726593613624573,True

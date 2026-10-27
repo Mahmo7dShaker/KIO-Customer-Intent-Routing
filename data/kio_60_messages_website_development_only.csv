@@ -1,0 +1,61 @@
+id,message,label,intent_type,case_type,group_id
+M001,"Could you quote a second website? Also, the website you built for us has stopped loading since this morning.",0,support,mixed,S24
+M002,The updated homepage for the website you're developing is two weeks overdue. When will you deliver it?,0,support,straightforward,S08
+M003,How much would you charge to build a five-page responsive website for our small business?,1,sales,straightforward,T02
+M004,Our invoice for the website redesign includes extra development hours we never approved.,0,support,straightforward,S02
+M005,How much would it cost to add a French-language version to the business website you're building for us?,1,sales,paraphrase,TP03
+M006,What features would you include if you built live chat into our new business website?,1,sales,paraphrase,TP04
+M007,"We paid to include French-language pages in our website build, but the delivered site is English-only.",0,support,paraphrase,SP02
+M008,Could you build an inventory-sync feature into the e-commerce website we're commissioning?,1,sales,straightforward,T09
+M009,"Before we commission development, can you explain the live-chat functionality you'd add to our new website?",1,sales,paraphrase,TP04
+M010,Can you build a WordPress website for a company launching its first online presence?,1,sales,straightforward,T05
+M011,How much would a one-page landing site cost for a new project?,1,sales,paraphrase,TP01
+M012,We haven't ordered a website from your team before. How much would a new responsive business site cost?,1,sales,negation,T23
+M013,The company website you developed for us has been offline since this morning. Can you restore it?,0,support,straightforward,S01
+M014,I'd like to schedule a consultation about building a members-only website for our association.,1,sales,straightforward,T04
+M015,What redesign options do you offer if we want to rebuild our company website?,1,sales,paraphrase,TP02
+M016,The contact form on the website you developed for us stopped sending submissions. Can you fix it?,0,support,paraphrase,SP01
+M017,"We'd like to add a team page to our website, but the search feature on the site you built has stopped returning results. Please fix that first.",0,support,mixed,S27
+M018,The live-chat feature you developed for our website crashes whenever visitors open it.,0,support,straightforward,S10
+M019,I'm not reporting a website fault; we'd like you to develop a new event-registration module for our current site.,1,sales,negation,T28
+M020,Can I get a price estimate for building a landing page from scratch?,1,sales,paraphrase,TP01
+M021,"The mobile navigation menu on the website you built won't open, and we'd also like to add a new FAQ page.",0,support,mixed,S29
+M022,"Our website development contract includes French pages, yet none of those pages appeared on the delivered site.",0,support,paraphrase,SP02
+M023,The lead form on the website you built is no longer emailing inquiries to our team.,0,support,paraphrase,SP01
+M024,What pages and features are included in your basic website development package?,1,sales,straightforward,T08
+M025,Please cancel our ongoing website redesign project before the next development milestone.,0,support,straightforward,S05
+M026,You charged us twice for the final payment on the website you developed. Can you refund the duplicate charge?,0,support,straightforward,S09
+M027,I don't want a new feature quote. The admin dashboard of our existing website has stopped updating its statistics.,0,support,negation,S20
+M028,"Since yesterday's CMS update, I can't log in to the admin dashboard of the website you developed.",0,support,paraphrase,SP03
+M029,Orders from the e-commerce website you built no longer sync with our inventory system.,0,support,straightforward,S04
+M030,The add-to-cart button on the online store you developed stopped working after the last update.,0,support,straightforward,S07
+M031,I'm not asking you to build a new cart; the add-to-cart button on our current website stopped working after your latest update.,0,support,negation,S22
+M032,"Please fix the broken checkout form on our current site, and quote adding gift cards afterward.",0,support,mixed,S28
+M033,A different company built our website. Can you develop a new booking page for it?,1,sales,straightforward,T12
+M034,Product images that I upload through our store's CMS aren't appearing on the website you delivered.,0,support,straightforward,S03
+M035,Which CMS platforms could you use to develop a new company website for us?,1,sales,straightforward,T03
+M036,The homepage layout on the website you just delivered doesn't match the design we approved.,0,support,straightforward,S06
+M037,Could you quote building a new e-commerce website for our shop?,1,sales,straightforward,T01
+M038,What would it cost to develop a customer portal as part of a new website?,1,sales,straightforward,T06
+M039,I'm not complaining about the website you built; I want a quote for developing an interactive pricing calculator on it.,1,sales,negation,T27
+M040,The product count displayed on the shop website you developed doesn't match the products we've published in its CMS.,0,support,paraphrase,SP04
+M041,Could you develop a fully keyboard-accessible website for our nonprofit organization?,1,sales,straightforward,T11
+M042,"We're already clients, but we want to commission a separate recruitment website for our sister company.",1,sales,straightforward,T13
+M043,We haven't worked with your developers before. Could you quote rebuilding our static site in WordPress?,1,sales,negation,T24
+M044,I'm not reporting a bug. I'd like a quote to develop a custom product-configurator page for our website.,1,sales,negation,T22
+M045,Could you estimate the price of developing French-language pages for the business website we're commissioning?,1,sales,paraphrase,TP03
+M046,"How much would a new booking page cost? First, the live-chat feature your team built on our existing website keeps crashing.",0,support,mixed,S26
+M047,I lost access to the CMS admin panel of the website you built after yesterday's update.,0,support,paraphrase,SP03
+M048,"We may order a redesigned homepage later, but right now the keyboard navigation on the site you delivered doesn't work.",0,support,mixed,S25
+M049,"Could you quote building another customer web portal? First, the existing portal you developed for our website keeps locking users out.",0,support,mixed,S30
+M050,No refund is needed; please quote building a new appointment-booking website for our second branch.,1,sales,negation,T29
+M051,I don't need a new website package; I need the broken contact form on our current site fixed.,0,support,negation,S19
+M052,I'm not asking for troubleshooting on our current website. Please quote building an entirely new site for a different business.,1,sales,negation,T30
+M053,Our current website isn't broken; we want a quote for developing a standalone conference website.,1,sales,negation,T26
+M054,The catalog on the website you built is showing fewer products than we published in its CMS.,0,support,paraphrase,SP04
+M055,"Before we commission a rebuild, could you outline your available website redesign options?",1,sales,paraphrase,TP02
+M056,Please don't proceed with the website redesign we commissioned; cancel that active project before the next milestone.,0,support,negation,S21
+M057,"No, I don't want pricing for extra features. Please restore the pages missing from the website you built.",0,support,negation,S23
+M058,Can you build an interactive product-filtering feature into a new clothing-store website?,1,sales,straightforward,T07
+M059,Could you develop an online payment gateway integration in the website we're planning?,1,sales,straightforward,T10
+M060,I'm not requesting help with a broken site; please quote developing a new product catalog website next month.,1,sales,negation,T25
